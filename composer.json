@@ -1,0 +1,9 @@
+{
+  "name": "zeroframe/zeroframe",
+  "description": "Zeroframe",
+  "type": "metapackage",
+  "require": {
+    "zeroframe/zerorouter": "~1.0"
+  },
+  "license": "BSD-3-Clause"
+}
